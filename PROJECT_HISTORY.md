@@ -146,6 +146,22 @@ npm run dev
 http://localhost:3000
 ```
 
+## 📱 GitHub Integration
+
+### 6. GitHub Repository Setup (September 2, 2025)
+- ✅ Installed GitHub CLI (`gh`) for repository management
+- ✅ Authenticated with GitHub account (`dborojevic-ai`)
+- ✅ Created public repository: `off-my-chest`
+- ✅ Connected local repository to GitHub remote
+- ✅ Pushed all project code to GitHub
+- ✅ Set up HTTPS authentication for future operations
+
+**Repository Details:**
+- **URL**: https://github.com/dborojevic-ai/off-my-chest
+- **Visibility**: Public
+- **Authentication**: GitHub CLI with HTTPS protocol
+- **Default Branch**: `main` (renamed from `master`)
+
 ## 💾 Git History
 
 ```

@@ -31,7 +31,7 @@ A Next.js application for sharing and browsing anonymous posts. A safe space whe
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dborojevic-ai/off-my-chest.git
    cd off-my-chest
    ```
 
@@ -180,6 +180,27 @@ CREATE TABLE posts (
 - **Environment Variables**: Sensitive data stored securely
 - **Input Validation**: Server-side validation for all inputs
 - **SQL Injection Protection**: Parameterized queries
+
+## 📱 Repository
+
+- **GitHub**: [https://github.com/dborojevic-ai/off-my-chest](https://github.com/dborojevic-ai/off-my-chest)
+- **Visibility**: Public
+- **Issues**: Report bugs and request features
+- **Contributions**: Pull requests welcome
+
+### Development Workflow
+
+```bash
+# Clone and setup
+git clone https://github.com/dborojevic-ai/off-my-chest.git
+cd off-my-chest
+npm install
+
+# Make changes and commit
+git add .
+git commit -m "Your descriptive commit message"
+git push origin main
+```
 
 ## 📝 License
 
